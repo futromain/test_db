@@ -8,4 +8,5 @@
 
 # COMMAND ----------
 
-
+# MAGIC %python 
+# MAGIC x = 1
