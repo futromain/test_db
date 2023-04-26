@@ -10,3 +10,8 @@
 
 # MAGIC %python 
 # MAGIC x = 1
+
+# COMMAND ----------
+
+# MAGIC %python
+# MAGIC x = 1
