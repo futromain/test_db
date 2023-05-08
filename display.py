@@ -15,3 +15,7 @@
 
 # MAGIC %python
 # MAGIC x = 1
+
+# COMMAND ----------
+
+New code
