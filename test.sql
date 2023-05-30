@@ -7,3 +7,5 @@
 -- MAGIC order by date, userType
 
 -- COMMAND ----------
+
+new code to be checked by senior dev
