@@ -7,3 +7,6 @@
 -- MAGIC order by date, userType
 
 -- COMMAND ----------
+
+-- MAGIC %sql
+-- MAGIC -- Code to be done
