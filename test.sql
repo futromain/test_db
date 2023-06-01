@@ -8,5 +8,9 @@
 
 -- COMMAND ----------
 
+new code
+
+-- COMMAND ----------
+
 -- MAGIC %sql
 -- MAGIC -- Code to be done
