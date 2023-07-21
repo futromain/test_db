@@ -5,5 +5,6 @@
 -- MAGIC where customerName like 'H&M%'
 -- MAGIC     and kpiName = "MAU"
 -- MAGIC order by date, userType
-
--- COMMAND ----------
+-- MAGIC
+-- MAGIC change code
+-- MAGIC
